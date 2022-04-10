@@ -27,5 +27,3 @@ Example input and instructions for user are displayed right after the program is
 ```
 python -m solution data.csv BTW REJ --bags=1
 ```
-
-##  
